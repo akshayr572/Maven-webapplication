@@ -17,7 +17,7 @@ pipeline {
 			
 		stage ('branch') {
 			steps {
-				echo "this master"
+				echo "this master branch"
 				}
 				}
 			}
